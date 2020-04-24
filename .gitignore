@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/encodings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/testjekin.iml
+.idea/workspace.xml
+jekins/.gitignore
+jekins/.mvn/
+jekins/mvnw
+jekins/mvnw.cmd
+
+jekins/HELP.md
+jekins/jekins.iml
+jekins/target/
+jekins/pom.xml
+
